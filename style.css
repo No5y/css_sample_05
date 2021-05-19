@@ -46,7 +46,7 @@ main{
   flex-wrap：wrap;
   justify-content:space-between;
 }
-
+ 
   section{
     flex: 3;
     padding: 3rem;
